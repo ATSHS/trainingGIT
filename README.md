@@ -1,0 +1,2 @@
+# trainingGIT
+LearningGIT
